@@ -1,0 +1,25 @@
+// 圖片取代文字
+@mixin hide-text {
+  text-indent: 110%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+//上下左右置中
+@mixin f-center-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// 圓形
+@mixin circle($size, $bgcolor, $color) {
+  border-radius: 50%;
+  height: $size;
+  width: $size;
+  color: $color;
+  font-size: $size/3;
+  text-align: center;
+  line-height: $size;
+  background: $bgcolor;
+}

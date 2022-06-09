@@ -16,7 +16,7 @@
   \***************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack://chattalker/./src/scss/all.scss?");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack://chat-talker/./src/scss/all.scss?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
   \*************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _scss_all_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../scss/all.scss */ \"./src/scss/all.scss\");\n// import $ from 'jquery';\r\n// const tailwind = require('tailwind');\r\n\r\n\r\n\n\n//# sourceURL=webpack://chattalker/./src/js/entry.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _scss_all_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../scss/all.scss */ \"./src/scss/all.scss\");\n// import $ from 'jquery';\r\n// const tailwind = require('tailwind');\r\n\r\n\r\n\n\n//# sourceURL=webpack://chat-talker/./src/js/entry.js?");
 
 /***/ })
 

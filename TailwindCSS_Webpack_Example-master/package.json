@@ -1,25 +1,15 @@
 {
-  "name": "chattalker",
+  "name": "webpackproject",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode production",
-    "dev": "webpack --mode development",
-    "serve": "webpack server",
+    "build": "webpack",
+    "dev": "webpack serve",
     "clean": "rm -rf dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chian0501/ChatTalker.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chian0501/ChatTalker/issues"
-  },
-  "homepage": "https://github.com/chian0501/ChatTalker#readme",
   "devDependencies": {
     "@babel/core": "^7.14.6",
     "@babel/preset-env": "^7.14.5",
@@ -34,11 +24,9 @@
     "mini-css-extract-plugin": "^1.6.0",
     "postcss": "^8.3.5",
     "postcss-loader": "^6.1.0",
-    "sass": "^1.52.2",
-    "sass-loader": "^13.0.0",
     "style-loader": "^2.0.0",
-    "webpack": "^5.73.0",
+    "webpack": "^5.39.1",
     "webpack-cli": "^4.7.2",
-    "webpack-dev-server": "^4.9.2"
+    "webpack-dev-server": "^3.11.2"
   }
 }

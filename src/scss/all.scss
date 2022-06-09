@@ -4,7 +4,7 @@ $size: 16px;
 $space: 4px;
 $base-color: #56c4c5;
 $light-color: #ff5d50;
-$sub-color: #747474; // $bu-h-color:#44617B;
+$sub-color: #747474;
 /* $ reset */
 @import 'reset';
 
@@ -21,8 +21,7 @@ $sub-color: #747474; // $bu-h-color:#44617B;
 html body {
   font-size: $size;
   line-height: 1.5;
-  font-family: 'Noto Sans TC', sans-serif;
-  // font-family: "微軟正黑體", Helvetica, sans-serif;
+  font-family: 'Noto Sans TC', '微軟正黑體', sans-serif;
 }
 
 a {
